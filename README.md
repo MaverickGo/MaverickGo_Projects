@@ -1,1 +1,2 @@
-# MaverickGo_Projects
+Hello!
+Here you can see my projects!
